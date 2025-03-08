@@ -11,3 +11,6 @@ example usage: python proxy.py 8080
 in one terminal run the proxy server. in another terminal send a curl request "curl -x http://localhost:8080 http://example.com".
 
 you can also configure you browser to run send request to the proxy by going into the network settings of yout browser and changing prioxy settings.
+
+# NOTE
+The above program is made with linux systems calls and will only work on linux.
